@@ -41,18 +41,4 @@ This project is a full-scale exploratory data analysis (EDA) of historical Test 
 - Some teams consistently underperform or lack result data in historical records
 - Seasonal trends show Test matches are played more frequently in specific months
 
----
-
-## 📂 Project Structure
-
-📁 Test-Cricket-Data-Analysis/
-│
-├── 📄 README.md
-├── 📄 Test_Cricket_Analysis.ipynb  
-├── 📊 visuals/                
-│   ├── team_wins.png
-│   ├── result_distribution.png
-│   └── ...
-├── 📁 data/
-│   └── test_cricket_raw.csv
 
