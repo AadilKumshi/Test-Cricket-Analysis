@@ -1,4 +1,4 @@
-# Test-Cricket-Analysis
+# 🏏 Test-Cricket-Analysis
 
 This project is a full-scale exploratory data analysis (EDA) of historical Test cricket match data. The goal was to extract meaningful trends, compare team performances, and visualize insights across decades of international Test matches.
 
